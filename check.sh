@@ -1,8 +1,8 @@
 #!/bin/bash
-cd /Users/abdijalil.dini/projects
+cd {PATH_TO_YOUR_REPOS}
 
 function jsonOutput() {
-    CUR="/Users/abdijalil.dini/WebstormProjects/bitbucketcommits/src/data/${PWD##*/}"
+    CUR="{PATH_YOU_WANT_TO_DATA}src/data/${PWD##*/}"
     if [ -d "$CUR" ]; then
     printf '%s\n' "Removing Lock ($CUR)"
     rm -rf "$CUR"
