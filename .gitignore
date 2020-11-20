@@ -104,7 +104,3 @@ dist
 .tern-port
 
 #data
-
-/src/data/component-library/
-/src/data/cx-services/
-/src/data/kapitus-portal/
