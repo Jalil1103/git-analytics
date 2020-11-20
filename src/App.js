@@ -1,14 +1,13 @@
 import './App.css';
-import React from "react";
-import { BarData } from "./components/BarChart";
-
+import React from 'react';
+import { BarData } from './components/BarChart';
 
 function App() {
   return (
     <div className="App">
-        <div className={'test'}>
-      <BarData/>
-        </div>
+      <div className="test">
+        <BarData />
+      </div>
     </div>
   );
 }
