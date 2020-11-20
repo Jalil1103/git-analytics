@@ -18,3 +18,10 @@ K
 src/components/BarChart.jsx,0/d/0da992e9dcd0fc1c8e23bed408dc5db98f37731c
 E
 src/data/cleanData.js,b/8/b8a0f89c69c5768adb08f900e935737525885e0f
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+>
+.eslintrc.json,7/1/71c20a341bfe32aa5cd5b4384e94f942bab6a7d3
+M
+src/components/ModularBar.jsx,2/2/22366a6c14a610d495a99339518b5e9d310256f5
